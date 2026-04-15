@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+# torch
+numpy
+# gensim
+# transformers
+# sentence-transformers
